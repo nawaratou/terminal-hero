@@ -8,7 +8,7 @@
 nombre_secret=$(( RANDOM % 100 + 1 ))
 tentatives=0
 trouve=0
-echo "🎮 Bienvenue dans TERMINAL HERO : Jeu de devinettes !"
+echo "Bienvenue dans TERMINAL HERO : Jeu de devinettes !"
 echo "Je pense à un nombre entre 1 et 100... À toi de deviner !"
 
 while [ $trouve -eq 0 ]; do
