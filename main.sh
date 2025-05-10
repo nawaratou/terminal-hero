@@ -31,5 +31,5 @@ while [ $trouve -eq 0 ]; do
         trouve=1
     fi
 done
-https://github.com/nawaratou/terminal-hero.git                                   
-git push -u origin main
+                              
+# fin du jeu
