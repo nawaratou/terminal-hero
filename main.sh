@@ -16,7 +16,7 @@ while [ $trouve -eq 0 ]; do
 
     # Vérification que l'entrée est bien un nombre
     if [ $tentatives -ge 10 ]; then
-    echo "💀 Trop de tentatives ! Le nombre était : $nombre_secret"
+    echo " Trop de tentatives ! Le nombre était : $nombre_secret"
     break
     fi
 
